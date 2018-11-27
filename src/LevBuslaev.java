@@ -6,5 +6,6 @@ public class LevBuslaev {
     public static void main(String[] args) {
         System.out.println("LevBuslaev");
         System.out.println("Lev A Buslaev");
+        System.out.println("Lev Anat Buslaev");
     }
 }
